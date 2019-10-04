@@ -1,9 +1,5 @@
 # spring-security-jwt-guide
 
-[English version](https://github.com/Snailclimb/spring-security-jwt-guide/blob/master/README-ENGLISH.md)
-
-**如果国内访问缓慢的话，可以通过码云查看：** https://gitee.com/SnailClimb/spring-security-jwt-guide 。
-
 ## 介绍
 
 [Spring Security](https://spring.io/projects/spring-security ) 是Spring 全家桶中非常强大的一个用来做身份验证以及权限控制的框架，我们可以轻松地扩展它来满足我们当前系统安全性这方面的需求。
